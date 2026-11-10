@@ -30,4 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/filipesilva07/hello-actions:1.0
+          tags: ghcr.io/filipesilva07/hello-actions:2.0
